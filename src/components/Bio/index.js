@@ -27,7 +27,7 @@ const Bio = () => (
             <p className="description">
               A Christian, self-motivated individual, risk taker and an overall optimist. 
               I like to put new ideas to codes. 
-              I just wanted to make this world a better place by spreading small goodness as possible that's why I fell inlove with <a href="https://opensource.com/resources/what-open-source" target="_blank">Open Source</a>.
+              I want to make this world a better place by spreading small goodness as possible that's why I fell inlove with <a href="https://opensource.com/resources/what-open-source" target="_blank">Open Source</a>.
             </p>
           </td>
         </tr>
